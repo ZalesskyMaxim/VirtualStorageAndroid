@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">VStorage</string>
+    <string name="app_login">Sign In</string>
+    <string name="sign_out">Sign out</string>
+    <string name="load_data">Load all data</string>
+    <string name="image_detail">Image detail</string>
+    <string name="add">Add</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_data">Enter data</string>
+    <string name="open_image">Open image</string>
+</resources>
